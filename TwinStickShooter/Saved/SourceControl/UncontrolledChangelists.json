@@ -1,0 +1,48 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/vivie/Projektit/Unreal/TwinStickShooter/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/vivie/Projektit/Unreal/TwinStickShooter/Content/Level1.umap",
+				"C:/Users/vivie/Projektit/Unreal/TwinStickShooter/Content/Blueprints/HeroCharacter.uasset",
+				"C:/Users/vivie/Projektit/Unreal/TwinStickShooter/Content/Blueprints/TwinStickMode.uasset",
+				"C:/Users/vivie/Projektit/Unreal/TwinStickShooter/Content/_GENERATED/Vivienne/Box_9EDFDB5D.uasset",
+				"C:/Users/vivie/Projektit/Unreal/TwinStickShooter/Content/_GENERATED/Vivienne/Box_A794458C.uasset",
+				"C:/Users/vivie/Projektit/Unreal/TwinStickShooter/Content/_GENERATED/Vivienne/Box_C4D06105.uasset",
+				"C:/Users/vivie/Projektit/Unreal/TwinStickShooter/Content/Blueprints/EnemyCharacter.uasset",
+				"C:/Users/vivie/Projektit/Unreal/TwinStickShooter/Content/Blueprints/EnemyAI.uasset",
+				"C:/Users/vivie/Projektit/Unreal/TwinStickShooter/Content/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body.uasset",
+				"C:/Users/vivie/Projektit/Unreal/TwinStickShooter/Content/Blueprints/Projectile.uasset",
+				"C:/Users/vivie/Projektit/Unreal/TwinStickShooter/Content/Materials/ProjectileMat.uasset",
+				"C:/Users/vivie/Projektit/Unreal/TwinStickShooter/Content/Blueprints/Weapon.uasset",
+				"C:/Users/vivie/Projektit/Unreal/TwinStickShooter/Content/ThirdPerson/UI/HealthWidget.uasset",
+				"C:/Users/vivie/Projektit/Unreal/TwinStickShooter/Content/Blueprints/iDamagable.uasset",
+				"C:/Users/vivie/Projektit/Unreal/TwinStickShooter/Content/ThirdPerson/UI/MainMenu.uasset",
+				"C:/Users/vivie/Projektit/Unreal/TwinStickShooter/Content/MainMenuMap.umap",
+				"C:/Users/vivie/Projektit/Unreal/TwinStickShooter/Content/ThirdPerson/UI/MenuGameMode.uasset",
+				"C:/Users/vivie/Projektit/Unreal/TwinStickShooter/Content/AnimationAssets/HeroBlend.uasset",
+				"C:/Users/vivie/Projektit/Unreal/TwinStickShooter/Content/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset",
+				"C:/Users/vivie/Projektit/Unreal/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset",
+				"C:/Users/vivie/Projektit/Unreal/TwinStickShooter/Content/AnimationAssets/EnemyBlendSpace.uasset",
+				"C:/Users/vivie/Projektit/Unreal/TwinStickShooter/Content/Blueprints/EnemyAnimBP.uasset",
+				"C:/Users/vivie/Projektit/Unreal/TwinStickShooter/Content/AnimationAssets/UE4_Mannequin/Mesh/SK_Mannequin.uasset",
+				"C:/Users/vivie/Projektit/Unreal/TwinStickShooter/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_Skeleton.uasset",
+				"C:/Users/vivie/Projektit/Unreal/TwinStickShooter/Content/ThirdPerson/UI/GameOver.uasset",
+				"C:/Users/vivie/Projektit/Unreal/TwinStickShooter/Content/Blueprints/EnemySpawner.uasset",
+				"C:/Users/vivie/Projektit/Unreal/TwinStickShooter/Content/Blueprints/CharacterAnimBP.uasset",
+				"C:/Users/vivie/Projektit/Unreal/TwinStickShooter/Content/ScoreEntry/ScoreEntry.uasset",
+				"C:/Users/vivie/Projektit/Unreal/TwinStickShooter/Content/Blueprints/ScoreSaveGame.uasset",
+				"C:/Users/vivie/Projektit/Unreal/TwinStickShooter/Content/Blueprints/ScoreEntry/ScoreEntry.uasset",
+				"C:/Users/vivie/Projektit/Unreal/TwinStickShooter/Content/Blueprints/ScoreEntry.uasset",
+				"C:/Users/vivie/Projektit/Unreal/TwinStickShooter/Content/Blueprints/PlayerName.uasset",
+				"C:/Users/vivie/Projektit/Unreal/TwinStickShooter/Content/Blueprints/Results.uasset",
+				"C:/Users/vivie/Projektit/Unreal/TwinStickShooter/Content/ThirdPerson/UI/MenuKuva.uasset",
+				"C:/Users/vivie/Projektit/Unreal/TwinStickShooter/Content/Blueprints/CharachterAnimBP.uasset",
+				"C:/Users/vivie/Projektit/Unreal/TwinStickShooter/Content/ThirdPerson/UI/EnemyHealth.uasset"
+			]
+		}
+	]
+}
